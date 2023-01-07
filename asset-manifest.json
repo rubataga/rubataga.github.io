@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8849da0.css",
+    "main.js": "/static/js/main.b2d4d2ff.js",
+    "static/js/787.9e260e23.chunk.js": "/static/js/787.9e260e23.chunk.js",
+    "static/media/isaac_headshot.svg": "/static/media/isaac_headshot.abec0f31a8c356a22eb9cf16c07f7b64.svg",
+    "static/media/zellic-logo-blue-transparent.png": "/static/media/zellic-logo-blue-transparent.38880d413c41185bb900.png",
+    "static/media/uw-crest-web.svg": "/static/media/uw-crest-web.b87cb864af453d55d1078d9b1842c82a.svg",
+    "index.html": "/index.html",
+    "main.f8849da0.css.map": "/static/css/main.f8849da0.css.map",
+    "main.b2d4d2ff.js.map": "/static/js/main.b2d4d2ff.js.map",
+    "787.9e260e23.chunk.js.map": "/static/js/787.9e260e23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8849da0.css",
+    "static/js/main.b2d4d2ff.js"
+  ]
+}
